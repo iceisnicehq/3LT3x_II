@@ -2,6 +2,7 @@
 ```diff
 - WRONG ANSEWRS: 4
 ```
+![Снимок экрана 2025-05-07 215511](https://github.com/user-attachments/assets/a8ce38f0-f5af-4c5e-8ce4-697aa508374b)
 ![Снимок экрана 2025-05-07 215519](https://github.com/user-attachments/assets/08d42afc-3ad3-4ab7-8bbc-2760b65cf47e)
 ![Снимок экрана 2025-05-07 215524](https://github.com/user-attachments/assets/c29f0008-fc2b-43a4-a3f1-496dda177508)
 ![Снимок экрана 2025-05-07 215528](https://github.com/user-attachments/assets/ece92f58-2270-44be-8edc-d8b438887ea6)
@@ -21,4 +22,4 @@
 ![Снимок экрана 2025-05-07 215636](https://github.com/user-attachments/assets/ec2509f8-ec77-411b-a113-2b001620b35a)
 ![Снимок экрана 2025-05-07 215641](https://github.com/user-attachments/assets/8d2b6f9c-e2db-4db1-8734-86152d26a754)
 ![Снимок экрана 2025-05-07 215647](https://github.com/user-attachments/assets/029297ae-9a5a-43ef-92d3-0399ffd4c49f)
-![Снимок экрана 2025-05-07 215511](https://github.com/user-attachments/assets/a8ce38f0-f5af-4c5e-8ce4-697aa508374b)
+
