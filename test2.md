@@ -1,4 +1,5 @@
 # t2
+100 pts 
 ![Снимок экрана 2025-05-07 023618](https://github.com/user-attachments/assets/7a7a9a88-61d4-4f0e-be41-9d3aabfa430b)
 ![Снимок экрана 2025-05-07 023636](https://github.com/user-attachments/assets/c1a751eb-cb4e-4233-b659-6c96e8787458)
 ![Снимок экрана 2025-05-07 023655](https://github.com/user-attachments/assets/9d281e86-4e06-4faf-a376-a6987c7a938c)
