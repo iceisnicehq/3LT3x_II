@@ -1,4 +1,4 @@
-#t1 (100/100)
+# t1 (100/100)
 
 ![Снимок экрана 2025-05-07 213225](https://github.com/user-attachments/assets/2080d85e-51ea-4a92-9edf-c05c2f849350)
 ![Снимок экрана 2025-05-07 213229](https://github.com/user-attachments/assets/3b6170f9-a991-476f-9361-cca6a6469b19)
