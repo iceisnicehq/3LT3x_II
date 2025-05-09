@@ -1,0 +1,25 @@
+# t6 (75/100)
+```diff
+- WRONG ANSWERS: 3, 4, 12, 14, 17
+```
+![Снимок экрана 2025-05-09 230401](https://github.com/user-attachments/assets/4cbf932a-02d7-43b7-976e-8f1b6d4d25d1)
+![Снимок экрана 2025-05-09 230405](https://github.com/user-attachments/assets/33d4e0f6-47e8-409b-a88b-f91090aa852c)
+![Снимок экрана 2025-05-09 230409](https://github.com/user-attachments/assets/4b1aba89-8492-4758-89ba-78f7df42142e)
+![Снимок экрана 2025-05-09 230414](https://github.com/user-attachments/assets/a72cc440-de08-4d74-b690-39d6b328ac6f)
+![Снимок экрана 2025-05-09 230418](https://github.com/user-attachments/assets/f9590467-afb1-40aa-a6ad-21bcc624eb5a)
+![Снимок экрана 2025-05-09 230423](https://github.com/user-attachments/assets/47bacd3b-1010-4b6a-a4fd-3441c9256208)
+![Снимок экрана 2025-05-09 230508](https://github.com/user-attachments/assets/b5ea4bed-295f-48ae-9906-fc011340c245)
+![Снимок экрана 2025-05-09 230659](https://github.com/user-attachments/assets/a88600c9-5bd7-44e2-b8a8-c8f1b22e4f21)
+![Снимок экрана 2025-05-09 230703](https://github.com/user-attachments/assets/5d03da97-b92a-46f3-89c6-6f0957ba4533)
+![Снимок экрана 2025-05-09 230707](https://github.com/user-attachments/assets/3b9d74d0-f1ee-471f-a093-fe3a935dfb08)
+![Снимок экрана 2025-05-09 230711](https://github.com/user-attachments/assets/5cde89c1-2b31-4157-96f2-aa363145b13c)
+![Снимок экрана 2025-05-09 230720](https://github.com/user-attachments/assets/991c34bd-24ab-41b9-9637-a9d5fa8dd227)
+![Снимок экрана 2025-05-09 230726](https://github.com/user-attachments/assets/da686d82-4f04-4f41-941b-e5709ce7a785)
+![Снимок экрана 2025-05-09 230732](https://github.com/user-attachments/assets/7f3cd315-9b04-4962-ae10-50b8d1f2a899)
+![Снимок экрана 2025-05-09 230737](https://github.com/user-attachments/assets/975f3579-1e20-4f1c-a044-cad8c8ce72e0)
+![Снимок экрана 2025-05-09 230742](https://github.com/user-attachments/assets/562ac241-306e-4dbf-8c75-d7749d7b9f26)
+![Снимок экрана 2025-05-09 230746](https://github.com/user-attachments/assets/173e1e49-4c4f-49cd-9c95-7514c552f39f)
+![Снимок экрана 2025-05-09 230750](https://github.com/user-attachments/assets/128edb52-c584-43f2-844a-6c84d2f35a10)
+![Снимок экрана 2025-05-09 230754](https://github.com/user-attachments/assets/4059470e-9739-497b-a6c4-0ff416b6c3ac)
+![Снимок экрана 2025-05-09 230758](https://github.com/user-attachments/assets/5140de3e-f0df-49b0-b3c0-e8a05a684cad)
+
