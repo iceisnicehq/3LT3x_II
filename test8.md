@@ -1,0 +1,25 @@
+# t8 (95/100)
+```diff
+- WRONG ANSWERS: 13
+```
+![Снимок экрана 2025-05-11 033922](https://github.com/user-attachments/assets/82b8c844-8411-4d63-9f87-d58da0cba266)
+![Снимок экрана 2025-05-11 033927](https://github.com/user-attachments/assets/027c27e0-5c7b-4398-82bd-3c142871dc38)
+![Снимок экрана 2025-05-11 033931](https://github.com/user-attachments/assets/4088600f-f396-4d9e-8f61-729ec164c2d5)
+![Снимок экрана 2025-05-11 033935](https://github.com/user-attachments/assets/c58f1ffe-df79-4ee8-aa4e-9556f67ff0fb)
+![Снимок экрана 2025-05-11 033939](https://github.com/user-attachments/assets/9141b563-13cd-42ac-b268-1808362143c3)
+![Снимок экрана 2025-05-11 033942](https://github.com/user-attachments/assets/499c8868-3989-48ee-a904-97b0b72e1a0a)
+![Снимок экрана 2025-05-11 033946](https://github.com/user-attachments/assets/0c89ca66-2e07-4e7e-a213-4208acff7aa2)
+![Снимок экрана 2025-05-11 033950](https://github.com/user-attachments/assets/3afc5b57-1369-48ff-964a-88555dc39994)
+![Снимок экрана 2025-05-11 033954](https://github.com/user-attachments/assets/26ca1068-c6d7-4eed-9dd9-93a0e48caccb)
+![Снимок экрана 2025-05-11 034000](https://github.com/user-attachments/assets/9d8ab735-8894-43ac-a31c-c57ec0322ded)
+![Снимок экрана 2025-05-11 034004](https://github.com/user-attachments/assets/0f2f4bf3-2f8e-48a1-a458-a7b39611425f)
+![Снимок экрана 2025-05-11 034009](https://github.com/user-attachments/assets/f8580598-df18-4671-9d74-adedce3a9299)
+![Снимок экрана 2025-05-11 034015](https://github.com/user-attachments/assets/05c950c8-9452-4336-82b0-6adb8282961f)
+![Снимок экрана 2025-05-11 034019](https://github.com/user-attachments/assets/0493656e-7e0b-4901-9a86-041375c31497)
+![Снимок экрана 2025-05-11 034023](https://github.com/user-attachments/assets/e47a944e-c69d-401d-a4eb-e2e84e709498)
+![Снимок экрана 2025-05-11 034027](https://github.com/user-attachments/assets/434a8ad6-471a-45f5-b4eb-2fdf0ca08bed)
+![Снимок экрана 2025-05-11 034031](https://github.com/user-attachments/assets/00020303-e275-49a3-9cca-746f5e202208)
+![Снимок экрана 2025-05-11 034035](https://github.com/user-attachments/assets/d8de8ed9-c783-42b4-92c2-6be3d8bfca30)
+![Снимок экрана 2025-05-11 034039](https://github.com/user-attachments/assets/f5406724-35ef-4fb1-bf8e-2489e5d3d1dc)
+![Снимок экрана 2025-05-11 034043](https://github.com/user-attachments/assets/e8cc53b5-2b99-4e33-acb2-071b7f94edb3)
+
