@@ -1,4 +1,4 @@
-# t12 (86/100)
+# t12 (88/100)
 ![image](https://github.com/user-attachments/assets/346df823-1627-4d3f-a26e-a94c9b045e86)
 ![Снимок экрана 2025-05-13 023339](https://github.com/user-attachments/assets/bb7de1a3-f42d-42eb-a161-db95712a029c)
 ![Снимок экрана 2025-05-13 023344](https://github.com/user-attachments/assets/e5aff329-38e7-49e3-b47c-aea5ad05d252)
