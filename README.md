@@ -21,6 +21,6 @@
 10.1 | 10.3 | 10.6 | 10.9 | 10.10 | 10.11 | 10.18 | 10.19 | 10.20 | 10.21 | 10.22 | 10.23 | 10.24 | 10.25 | 10.26 | 10.27 | 10.28 | 10.29 | 10.30 | 10.31 | <br>
 [test 11](https://github.com/iceisnicehq/3LT3x_II/blob/main/test11.md) <br>
 11.1 | 11.3 | 11.4 | 11.7 | 11.10 | 11.11 | 11.12 | 11.13 | 11.14 | 11.17 | 11.18 | 11.19 | 11.23 | 11.24 | 11.25 | 11.28 | 11.31 | 11.32 | 11.33 | 11.34 | <br>
-[test 12](https://github.com/iceisnicehq/3LT3x_II/blob/main/test12.md)
+[test 12](https://github.com/iceisnicehq/3LT3x_II/blob/main/test12.md) <br>
 12.1 | 12.3 | 12.4 | 12.6 | 12.7 | 12.11 | 12.12 | 12.13 | 12.15 | 12.23 | 12.31 | 12.33 | 12.34 | 12.35 | 12.36 | 12.37 | 12.38 | 12.39 | 12.40 | 12.41 | <br>
 ![image](https://github.com/user-attachments/assets/e0901bd1-f0f5-4fd4-9b8d-7896649d958e)
